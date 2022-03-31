@@ -31,9 +31,6 @@ game of https://en.wikipedia.org/wiki/Exquisite_corpse[exquisite corpse]. All
 members of the team must create a repository called _exercise-exquisite-corpse_
 with a _README.md_ which will contain the game itself.
 
-*Each member of the team must create the repository, there will be four instance
-of the game, but the stories can/should be different.*
-
 ## Result
 
 ### La fabuleuse histoire de la 🍕
