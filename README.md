@@ -1,4 +1,42 @@
-# La fabuleuse histoire de la 🍕
+# THE FIELD | Git Challenge 'Exquisite Corpse'
+
+_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)_![image](https://user-images.githubusercontent.com/94377998/161032844-e6a4c7e9-13bd-4562-b0e1-b4d5fd8d0cef.png)
+
+* Mode : group of four people
+* Type of challenge : consolidation
+* Duration : 1 day
+
+## Group Members
+
+* [Elise](https://github.com/eliseprts)
+* [Sarah](https://github.com/sarah-jpro)
+* [Amoryne](https://github.com/Amoryne)
+* [Philippe](https://github.com/philouLeF)
+
+## Missions objectives
+
+At the end of this challenge you should have improved your:
+
+* Basic *MarkDown* skills
+* *Git* skills
+
+You should also be able to:
+
+* work in group with `git`
+
+## Challenge
+
+Write crazy stories (in markdown) with your group in a
+game of https://en.wikipedia.org/wiki/Exquisite_corpse[exquisite corpse]. All
+members of the team must create a repository called _exercise-exquisite-corpse_
+with a _README.md_ which will contain the game itself.
+
+*Each member of the team must create the repository, there will be four instance
+of the game, but the stories can/should be different.*
+
+## Result
+
+### La fabuleuse histoire de la 🍕
 Il était une fois une petite pizza qui cherchait ses garnitures.
 Elle se sentait bien nue juste revêtue d'une petite couche de sauce tomate
 Elle décida donc de partir à la recherche d'appétissantes garnitures.
